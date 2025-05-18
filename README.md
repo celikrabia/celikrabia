@@ -1,4 +1,4 @@
-# 👋 Merhaba, ben [Adın]!
+# 👋 Merhaba, ben Rabia!
 
 🎓 Bilgisayar Mühendisliği 3. sınıf öğrencisiyim.  
 💻 Yazılım geliştirme, yapay zeka ve veri mühendisliği alanlarına ilgi duyuyorum.  
